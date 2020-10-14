@@ -1,0 +1,14 @@
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\modelo\bin\Debug\modelo.dll
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\modelo\bin\Debug\modelo.pdb
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\modelo\obj\Debug\modelo.csprojAssemblyReference.cache
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\modelo\obj\Debug\modelo.csproj.CopyComplete
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\modelo\obj\Debug\modelo.dll
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\modelo\obj\Debug\modelo.pdb
+C:\Users\MIGUE\Desktop\Proyecto\sistema\modelo\bin\Debug\modelo.dll
+C:\Users\MIGUE\Desktop\Proyecto\sistema\modelo\bin\Debug\modelo.pdb
+C:\Users\MIGUE\Desktop\Proyecto\sistema\modelo\obj\Debug\modelo.csprojAssemblyReference.cache
+C:\Users\MIGUE\Desktop\Proyecto\sistema\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\Users\MIGUE\Desktop\Proyecto\sistema\modelo\obj\Debug\modelo.csproj.CopyComplete
+C:\Users\MIGUE\Desktop\Proyecto\sistema\modelo\obj\Debug\modelo.dll
+C:\Users\MIGUE\Desktop\Proyecto\sistema\modelo\obj\Debug\modelo.pdb

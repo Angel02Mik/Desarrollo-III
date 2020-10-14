@@ -1,0 +1,171 @@
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\bin\Debug\vista.exe.config
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\bin\Debug\vista.exe
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\bin\Debug\vista.pdb
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.csprojAssemblyReference.cache
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.Properties.Resources.resources
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.csproj.GenerateResource.cache
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.exe
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.pdb
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.frm_principal.resources
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.frm_producto.resources
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\bin\Debug\controlador.dll
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\bin\Debug\modelo.dll
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\bin\Debug\MySql.Data.dll
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\bin\Debug\controlador.pdb
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\bin\Debug\modelo.pdb
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.csproj.CopyComplete
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.frm_modal.resources
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.frm_modal_modificar_producto.resources
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.frm_categoria.resources
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.frm_modal_modificar_categoria.resources
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.frm_modal_nuevo_categoria.resources
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.frm_cliente.resources
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.frm_modal_modificar_cliente.resources
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.frm_modal_nuevo_cliente.resources
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.frm_proveedor.resources
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.frm_modal_modificar_proveedor.resources
+C:\Users\migue\Desktop\C#\sistemaVentas.v.0.1\sistema\vista\obj\Debug\vista.frm_modal_nuevo_proveedor.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\bin\Debug\vista.exe.config
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\bin\Debug\vista.exe
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\bin\Debug\vista.pdb
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\bin\Debug\controlador.dll
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\bin\Debug\modelo.dll
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\bin\Debug\MySql.Data.dll
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\bin\Debug\controlador.pdb
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\bin\Debug\modelo.pdb
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.csprojAssemblyReference.cache
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_categoria.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_cliente.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_modificar_categoria.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_modificar_cliente.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_modificar_producto.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_modificar_proveedor.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_nuevo_categoria.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_nuevo_cliente.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_nuevo_proveedor.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_principal.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_producto.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_proveedor.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.Properties.Resources.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.csproj.GenerateResource.cache
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.csproj.CoreCompileInputs.cache
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.csproj.CopyComplete
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.exe
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.pdb
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_documento.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_modificar_documento.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_nuevo_documento.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_personal.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_modificar_personal.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_nuevo_personal.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_cargo.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_modificar_cargo.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_nuevo_cargo.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_caja.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_unidad_medida.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_modificar_unidad_medida.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_nuevo_unidad_medida.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_modificar_usuario.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_modal_nuevo_usuario.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_usuario.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_inicio.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\bin\Debug\vista.exe.config
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\bin\Debug\vista.exe
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\bin\Debug\vista.pdb
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\bin\Debug\controlador.dll
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\bin\Debug\modelo.dll
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\bin\Debug\MySql.Data.dll
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\bin\Debug\controlador.pdb
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\bin\Debug\modelo.pdb
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.csprojAssemblyReference.cache
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_caja.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_cargo.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_categoria.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_cliente.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_documento.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_inicio.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_modificar_cargo.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_modificar_categoria.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_modificar_cliente.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_modificar_documento.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_modificar_personal.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_modificar_producto.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_modificar_proveedor.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_modificar_unidad_medida.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_modificar_usuario.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_nuevo_cargo.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_nuevo_categoria.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_nuevo_cliente.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_nuevo_documento.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_nuevo_personal.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_nuevo_proveedor.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_nuevo_unidad_medida.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_modal_nuevo_usuario.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_personal.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_principal.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_producto.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_proveedor.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_unidad_medida.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_usuario.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.Properties.Resources.resources
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.csproj.GenerateResource.cache
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.csproj.CopyComplete
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.exe
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.pdb
+C:\Users\migue\Desktop\Sistemas\sistemaVentas V.0.1\sistema\vista\obj\Debug\vista.frm_configuracion.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_configuracion.resources
+C:\Users\MIGUE\Desktop\Proyecto\sistema\vista\obj\Debug\vista.frm_login.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\bin\Debug\vista.exe.config
+G:\sistema V.0.1\sistemaV.02\sistema\vista\bin\Debug\vista.exe
+G:\sistema V.0.1\sistemaV.02\sistema\vista\bin\Debug\vista.pdb
+G:\sistema V.0.1\sistemaV.02\sistema\vista\bin\Debug\controlador.dll
+G:\sistema V.0.1\sistemaV.02\sistema\vista\bin\Debug\modelo.dll
+G:\sistema V.0.1\sistemaV.02\sistema\vista\bin\Debug\MySql.Data.dll
+G:\sistema V.0.1\sistemaV.02\sistema\vista\bin\Debug\controlador.pdb
+G:\sistema V.0.1\sistemaV.02\sistema\vista\bin\Debug\modelo.pdb
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.csprojAssemblyReference.cache
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_caja.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_cargo.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_categoria.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_cliente.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_configuracion.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_documento.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_inicio.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_login.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_modificar_cargo.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_modificar_categoria.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_modificar_cliente.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_modificar_documento.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_modificar_personal.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_modificar_producto.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_modificar_proveedor.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_modificar_unidad_medida.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_modificar_usuario.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_nuevo_cargo.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_nuevo_categoria.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_nuevo_cliente.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_nuevo_documento.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_nuevo_personal.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_nuevo_proveedor.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_nuevo_unidad_medida.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_modal_nuevo_usuario.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_personal.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_principal.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_producto.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_proveedor.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_unidad_medida.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.frm_usuario.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.Properties.Resources.resources
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.csproj.GenerateResource.cache
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.csproj.CoreCompileInputs.cache
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.csproj.CopyComplete
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.exe
+G:\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.pdb
+D:\Programacion\sistema V.0.1\sistemaV.02\sistema\vista\bin\Debug\vista.exe.config
+D:\Programacion\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.exe
+D:\Programacion\sistema V.0.1\sistemaV.02\sistema\vista\obj\Debug\vista.pdb
